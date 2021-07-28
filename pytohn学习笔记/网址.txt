@@ -1,0 +1,9 @@
+绘图：
+https://www.cnblogs.com/sunnypoem/p/8080957.html
+
+
+Markdown语法:
+https://www.runoob.com/markdown/md-tutorial.html
+
+jupyter notebook：
+https://blog.csdn.net/guleileo/article/details/80490921
